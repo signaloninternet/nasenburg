@@ -41,12 +41,12 @@ export const navLinks = [
         title: "About",
     },
     {
-        id: "popular",
-        title: "Popular",
+        id: "why choose us?",
+        title: "Why us?",
     },
     {
-        id: "instructors",
-        title: "Instructors",
+        id: "founders",
+        title: "Founders",
     },
     {
         id: "blog",
@@ -75,22 +75,23 @@ export const statistics = [
 
 export const aboutFeaturs = [
     {
-        title: "Our Vision",
-        description: "We aspire to empower individuals from all walks of life to achieve their learning goals.",
+        title: "Mission Focus",
+        description: "Complete focused tasks to earn rewards and level up your productivity score.",
     },
     {
-        title: "Expert Instructors",
-        description: "Our courses are led by industry experts and seasoned educators.",
+        title: "Power-Up Guides",
+        description: "Access expert-led tutorials to gain powerful skills and unlock achievements.",
     },
     {
-        title: "Diverse Course Catalog",
-        description: "We offer a diverse range of courses spanning various fields, from technology and business to the arts and beyond.",
+        title: "Endless Challenges",
+        description: "Conquer a variety of challenges from different categories and see your progress grow.",
     },
     {
-        title: "Community Engagement",
-        description: "Join our thriving learning community, connect with fellow students and instructors.",
+        title: "Community of Achievers",
+        description: "Join a community of motivated learners, compete, collaborate, and cheer each other on.",
     },
 ];
+
 
 export const categories = ["All", "Technology", "Marketing", "Arts", "Business"];
 

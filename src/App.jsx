@@ -6,13 +6,11 @@ export default function App() {
         <>
             <Header />
             <Hero />
-            <Statistics />
             <About />
             <PopularCourses />
             <Courses />
             <Instructors />
             <Blogs />
-            <CTA />
             <Footer />
         </>
     );
